@@ -1,0 +1,1 @@
+@py.exe C:\Users\lwongjb\AppData\Local\Programs\Python\Python37-32\guess.py %*
